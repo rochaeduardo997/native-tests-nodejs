@@ -1,0 +1,13 @@
+{
+  "name": "tests-erick-wendel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev:test": "yarn nodemon index.test.js"
+  },
+  "devDependencies": {
+    "nodemon": "2"
+  }
+}
